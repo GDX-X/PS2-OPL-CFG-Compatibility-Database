@@ -1,9 +1,9 @@
-SCES_538.81 Buzz^! Le Grand Quiz
-SCES_538.79 Buzz^! The Big Quiz
-SCES_538.80 Buzz^! The Big Quiz
-SCES_539.25 Buzz^! The Big Quiz
-SCES_539.26 Buzz^! The Big Quiz
-SCES_540.73 Buzz^! The Big Quiz
+SCES_538.81 Buzz! Le Grand Quiz
+SCES_538.79 Buzz! The Big Quiz
+SCES_538.80 Buzz! The Big Quiz
+SCES_539.25 Buzz! The Big Quiz
+SCES_539.26 Buzz! The Big Quiz
+SCES_540.73 Buzz! The Big Quiz
 SCES_524.12 Jackie Chan Adventures
 SCES_503.61 Jak and Daxter: The Precursor Legacy
 SCUS_971.24 Jak and Daxter: The Precursor Legacy
