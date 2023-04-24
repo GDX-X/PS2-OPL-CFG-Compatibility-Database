@@ -11,6 +11,6 @@ An example of what you need to send to be added to the database:
 Inside CFG                       
 `Title=Game Name`                     
 `$Compatibility=2`               
-`Modes=2`                          
+`Modes=2`      (Optional)                        
 `$ConfigSource=1`                      
 
