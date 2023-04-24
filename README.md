@@ -21,5 +21,5 @@ This script was created to be used mainly with PFS Batchkit Manager
 These two gameids do not really exist but are used with PFS Batchkkit Manager to have different names 
 because these ids share the same gameid as other games
 
-`SLUD_206.43.cfg` = `SLUS_206.43.cfg`
-`SLUG_202.73.cfg` = `SLUS_202.73.cfg`
+`SLUD_206.43.cfg`            = `SLUS_206.43.cfg`
+`SLUG_202.73.cfg`            = `SLUS_202.73.cfg`
