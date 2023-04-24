@@ -1,7 +1,7 @@
 # PS2-OPL-CFG-Compatibility-Database
 
 
-I created this repository to list all game compatibilities that we need for OPL
+I created this repository to list all game compatibilities modes that we need for OPL
 
 This script was created to be used mainly with PFS Batchkit Manager
 
