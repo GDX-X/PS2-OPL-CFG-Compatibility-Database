@@ -11,7 +11,7 @@ because these ids share the same gameid as other games
 `SLUD_206.43.cfg` = `SLUS_206.43.cfg` Namco Transmission v1.03 <br/>
 `SLUG_202.73.cfg` = `SLUS_202.73.cfg` Namco Museum 50th Anniversary <br/>
 
-You can find the list of games available in the database [__here__](https://www.psx-place.com/threads/popstarter.19139/page-8#post-298564)
+You can find the list of games available in the database [__here__](https://github.com/GDX-X/PS2-OPL-CFG-Compatibility-Database/blob/main/Games_List.txt)
 
 # Contribute to the project 
 
