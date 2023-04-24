@@ -17,6 +17,7 @@ You can find the list of games available in the database [__here__](https://gith
 # Contribute to the project 
 
 If you want to enlarge the database please open a issue 
+with the information below
 
 NOTE: HDD = Internal\
 NOTE: USB = External
