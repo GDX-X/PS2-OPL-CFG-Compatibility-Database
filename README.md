@@ -3,7 +3,7 @@
 
 I created this repository to list all game compatibilities modes that we need for OPL
 
-This script was created to be used mainly with PFS Batchkit Manager
+This script was created to be used mainly with [__PFS BatchKit Manager__](https://github.com/GDX-X/PFS-BatchKit-Manager)
 
 These two gameids do not really exist but are used with PFS Batchkkit Manager to have different names 
 because these ids share the same gameid as other games
