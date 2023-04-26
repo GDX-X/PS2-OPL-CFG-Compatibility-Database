@@ -20,13 +20,10 @@ You can find the list of games available in the database\
 If you want to enlarge the database please open a issue 
 with the information below
 
-NOTE: HDD = Internal\
-NOTE: USB = External
-
 An example of what you need to send to be added to the database:\
 `NOTE: Modes=2+1+3 are optional, they are just used to identify the activated modes`
 
-`ISSUE TITLE: [HDD] Game Name`
+`ISSUE TITLE: Game Name`
 ```
 Title=Game Name
 $Compatibility=2
