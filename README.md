@@ -7,7 +7,7 @@ If you are looking for game info, you can find it [__HERE__](https://github.com/
 
 This script was created to be used mainly with [__PFS BatchKit Manager__](https://github.com/GDX-X/PFS-BatchKit-Manager)
 
-These two gameids do not really exist but are used with PFS BatchKit Manager to have different names 
+These two gameids do not really exist but are used with PFS BatchKit Manager to avoid conflicts
 because these ids share the same gameid as other games
 
 `SLUD_206.43.cfg` = `SLUS_206.43.cfg` Namco Transmission v1.03 <br/>
