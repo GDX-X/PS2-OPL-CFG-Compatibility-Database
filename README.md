@@ -12,7 +12,7 @@ because these ids share the same gameid as other games
 
 `SLUD_206.43.cfg` = `SLUS_206.43.cfg` Namco Transmission v1.03 <br/>
 `SLUG_202.73.cfg` = `SLUS_202.73.cfg` Namco Museum 50th Anniversary <br/>
-See more infos SOON
+See more infos [__HERE__](https://github.com/GDX-X/Title-Database-Scrapper/tree/main)
 
 You can find the list of games available in the database [__HERE__](https://github.com/GDX-X/PS2-OPL-CFG-Compatibility-Database/blob/main/Games_List.txt)
 
