@@ -18,6 +18,9 @@ SLES_528.53 Miami Vice
 SLUS_215.80 MTV Pimp My Ride
 SLES_546.07 MTV Pimp My Ride
 SLES_546.32 MTV Pimp My Ride
+SLES_528.95 Nickelodeon SpongeBob SquarePants: The Movie
+SLES_528.96 Nickelodeon SpongeBob SquarePants: The Movie
+SLUS_209.04 Nickelodeon SpongeBob SquarePants: The Movie
 SLES_511.14 Pro Evolution Soccer 2
 SLPS_253.35 Shadow Hearts II (Disc 2)
 SLPS_253.18 Shadow Hearts II (Disc 2) (Gentei DX Pack)
