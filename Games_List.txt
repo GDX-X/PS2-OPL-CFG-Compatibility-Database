@@ -4,6 +4,23 @@ SCES_538.80 Buzz! The Big Quiz
 SCES_539.25 Buzz! The Big Quiz
 SCES_539.26 Buzz! The Big Quiz
 SCES_540.73 Buzz! The Big Quiz
+PBPX_956.01 Gran Turismo 4
+SCAJ_300.06 Gran Turismo 4
+SCAJ_300.07 Gran Turismo 4
+SCAJ_300.08 Gran Turismo 4
+SCES_517.19 Gran Turismo 4
+SCKA_300.01 Gran Turismo 4
+SCPS_170.01 Gran Turismo 4
+SCPS_192.52 Gran Turismo 4
+SCUS_906.82 Gran Turismo 4
+SCUS_973.28 Gran Turismo 4
+SCUS_975.63 Gran Turismo 4
+PBPX_955.23 Gran Turismo 4 : Prologue
+PBPX_955.24 Gran Turismo 4 : Prologue
+SCAJ_200.66 Gran Turismo 4 : Prologue
+SCES_524.38 Gran Turismo 4 : Prologue
+SCKA_200.22 Gran Turismo 4 : Prologue
+SCPS_150.55 Gran Turismo 4 : Prologue
 SCES_524.12 Jackie Chan Adventures
 SCES_524.60 Jak 3
 SCKA_200.40 Jak 3
