@@ -41,6 +41,19 @@ SLUS_209.04 Nickelodeon SpongeBob SquarePants: The Movie
 SLES_539.98 OutRun 2006: Coast 2 Coast
 SLUS_212.74 OutRun 2006: Coast 2 Coast
 SLES_511.14 Pro Evolution Soccer 2
+SLES_556.56 Pro Evolution Soccer 2012
+SLES_556.57 Pro Evolution Soccer 2012
+SLES_556.58 Pro Evolution Soccer 2012
+SLUS_219.48 Pro Evolution Soccer 2012
+SLES_556.66 Pro Evolution Soccer 2013
+SLES_556.67 Pro Evolution Soccer 2013
+SLES_556.68 Pro Evolution Soccer 2013
+SLES_556.69 Pro Evolution Soccer 2013
+SLUS_219.55 Pro Evolution Soccer 2013
+SLES_556.73 Pro Evolution Soccer 2014
+SLES_556.74 Pro Evolution Soccer 2014
+SLES_556.75 Pro Evolution Soccer 2014
+SLES_556.76 Pro Evolution Soccer 2014
 SLPS_253.35 Shadow Hearts II (Disc 2)
 SLPS_253.18 Shadow Hearts II (Disc 2) (Gentei DX Pack)
 SLPS_732.15 Shadow Hearts II: Director's Cut (Disc 2)
